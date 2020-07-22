@@ -22,7 +22,7 @@ hiddenSelectionsTextures[] = {"rhsusf\addons\rhsusf_hmmwv\textures\m998_exterior
 hiddenSelections[] = {"exterior","interior","A2","wheels","mainbody","hood gratting","camo1","camo2","unitdecals_1","unitdecals_2","ind_wait","ind_brake","ind_highbeam"};
 hiddenSelectionsTextures[] = {"humvees_by_eutyches\paa\a_exterior.paa","humvees_by_eutyches\paa\b_interior.paa","humvees_by_eutyches\paa\c_a2.paa","humvees_by_eutyches\paa\d_wheels.paa","humvees_by_eutyches\paa\e_mainbody.paa","humvees_by_eutyches\paa\f_gratting.paa","humvees_by_eutyches\paa\g_camo1_tile.paa","humvees_by_eutyches\paa\h_camo2_m1025.paa","humvees_by_eutyches\paa\i_unitdecals1.paa","humvees_by_eutyches\paa\j_unitdecals2.paa"};
 
-** Most retextures are by Corey. Black M1025 exteriors by Dunbar Snackbar. **
+** Most retextures are by Corey.  Black M1025 exteriors by Dunbar Snackbar**
 
 */
 
@@ -53,7 +53,7 @@ class CfgVehicles
 		displayName = "Humvee Open 8 Seater Black";
 		DLC = "";
 		hiddenSelections[] = {"exterior","interior","A2","wheels","mainbody","hood gratting","interior_wood","2drcargocomplete","camo1","unitdecals_1","unitdecals_2"};
-		hiddenSelectionsTextures[] = {"humvees_by_eutyches\paa\a_exterior_black.paa","humvees_by_eutyches\paa\b_interior_black.paa","humvees_by_eutyches\paa\c_a2_black.paa","humvees_by_eutyches\paa\d_wheels_black.paa","humvees_by_eutyches\paa\e_mainbody_black.paa","humvees_by_eutyches\paa\f_gratting_black.paa","humvees_by_eutyches\paa\l_interior_wood_black.paa","humvees_by_eutyches\paa\k_2drcargocomplete_black.paa","humvees_by_eutyches\paa\i_unitdecals1_test.paa","humvees_by_eutyches\paa\j_unitdecals2_test.paa"};
+		hiddenSelectionsTextures[] = {"humvees_by_eutyches\paa\a_exterior_black.paa","humvees_by_eutyches\paa\b_interior_black.paa","humvees_by_eutyches\paa\c_a2_black.paa","humvees_by_eutyches\paa\d_wheels_black.paa","humvees_by_eutyches\paa\e_mainbody_black.paa","humvees_by_eutyches\paa\f_gratting_black.paa","humvees_by_eutyches\paa\l_interior_wood_black.paa","humvees_by_eutyches\paa\k_2drcargocomplete_black.paa","humvees_by_eutyches\paa\i_unitdecals1.paa","humvees_by_eutyches\paa\j_unitdecals2.paa"};
 	};
 	
 	class rhsusf_m998_white: rhsusf_m998_w_2dr
@@ -65,7 +65,7 @@ class CfgVehicles
 		displayName = "Humvee Open 8 Seater White";
 		DLC = "";
 		hiddenSelections[] = {"exterior","interior","A2","wheels","mainbody","hood gratting","interior_wood","2drcargocomplete","camo1","unitdecals_1","unitdecals_2"};
-		hiddenSelectionsTextures[] = {"humvees_by_eutyches\paa\a_exterior_white.paa","humvees_by_eutyches\paa\b_interior_black.paa","humvees_by_eutyches\paa\c_a2_white.paa","humvees_by_eutyches\paa\d_wheels_white.paa","humvees_by_eutyches\paa\e_mainbody_white.paa","humvees_by_eutyches\paa\f_gratting_white.paa","humvees_by_eutyches\paa\l_interior_wood_black.paa","humvees_by_eutyches\paa\k_2drcargocomplete_white.paa","humvees_by_eutyches\paa\i_unitdecals1_test.paa","humvees_by_eutyches\paa\j_unitdecals2_test.paa"};
+		hiddenSelectionsTextures[] = {"humvees_by_eutyches\paa\a_exterior_white.paa","humvees_by_eutyches\paa\b_interior_black.paa","humvees_by_eutyches\paa\c_a2_white.paa","humvees_by_eutyches\paa\d_wheels_white.paa","humvees_by_eutyches\paa\e_mainbody_white.paa","humvees_by_eutyches\paa\f_gratting_white.paa","humvees_by_eutyches\paa\l_interior_wood_black.paa","humvees_by_eutyches\paa\k_2drcargocomplete_white.paa","humvees_by_eutyches\paa\i_unitdecals1.paa","humvees_by_eutyches\paa\j_unitdecals2.paa"};
 	};
 	
 	class rhsusf_m1025_black: rhsusf_m1025_d
@@ -73,11 +73,11 @@ class CfgVehicles
 		scope = 2;
 		scopeArsenal = 2;
 		scopeCurator = 2;
-		author = "Retextured by Snackbar + Corey";
+		author = "Retextured by Corey";
 		displayName = "Humvee Closed 4 Seater Black";
 		DLC = "";
 		hiddenSelections[] = {"exterior","interior","A2","wheels","mainbody","hood gratting","camo1","camo2","unitdecals_1","unitdecals_2"};
-		hiddenSelectionsTextures[] = {"humvees_by_eutyches\paa\a_exterior_black.paa","humvees_by_eutyches\paa\b_interior_black.paa","humvees_by_eutyches\paa\c_a2_black.paa","humvees_by_eutyches\paa\d_wheels_black.paa","humvees_by_eutyches\paa\e_mainbody_black.paa","humvees_by_eutyches\paa\f_gratting_black.paa","humvees_by_eutyches\paa\g_camo1_tile_black.paa","humvees_by_eutyches\paa\h_camo2_m1025_black.paa","humvees_by_eutyches\paa\i_unitdecals1_test.paa","humvees_by_eutyches\paa\j_unitdecals2_test.paa"};
+		hiddenSelectionsTextures[] = {"humvees_by_eutyches\paa\a_exterior_black.paa","humvees_by_eutyches\paa\b_interior_black.paa","humvees_by_eutyches\paa\c_a2_black.paa","humvees_by_eutyches\paa\d_wheels_black.paa","humvees_by_eutyches\paa\e_mainbody_black.paa","humvees_by_eutyches\paa\f_gratting_black.paa","humvees_by_eutyches\paa\g_camo1_tile_black.paa","humvees_by_eutyches\paa\h_camo2_m1025_black.paa","humvees_by_eutyches\paa\i_unitdecals1.paa","humvees_by_eutyches\paa\j_unitdecals2.paa"};
 	};
 	
 	class rhsusf_m1025_white: rhsusf_m1025_d
@@ -85,10 +85,10 @@ class CfgVehicles
 		scope = 2;
 		scopeArsenal = 2;
 		scopeCurator = 2;
-		author = "Retextured by Snackbar + Corey";
+		author = "Retextured by Corey";
 		displayName = "Humvee Closed 4 Seater White";
 		DLC = "";
 		hiddenSelections[] = {"exterior","interior","A2","wheels","mainbody","hood gratting","camo1","camo2","unitdecals_1","unitdecals_2"};
-		hiddenSelectionsTextures[] = {"humvees_by_eutyches\paa\a_exterior_white.paa","humvees_by_eutyches\paa\b_interior_black.paa","humvees_by_eutyches\paa\c_a2_white.paa","humvees_by_eutyches\paa\d_wheels_white.paa","humvees_by_eutyches\paa\e_mainbody_white.paa","humvees_by_eutyches\paa\f_gratting_white.paa","humvees_by_eutyches\paa\g_camo1_tile_white.paa","humvees_by_eutyches\paa\h_camo2_m1025_white.paa","humvees_by_eutyches\paa\i_unitdecals1_test.paa","humvees_by_eutyches\paa\j_unitdecals2_test.paa"};
+		hiddenSelectionsTextures[] = {"humvees_by_eutyches\paa\a_exterior_white.paa","humvees_by_eutyches\paa\b_interior_black.paa","humvees_by_eutyches\paa\c_a2_white.paa","humvees_by_eutyches\paa\d_wheels_white.paa","humvees_by_eutyches\paa\e_mainbody_white.paa","humvees_by_eutyches\paa\f_gratting_white.paa","humvees_by_eutyches\paa\g_camo1_tile_white.paa","humvees_by_eutyches\paa\h_camo2_m1025_white.paa","humvees_by_eutyches\paa\i_unitdecals1.paa","humvees_by_eutyches\paa\j_unitdecals2.paa"};
 	};
 };
